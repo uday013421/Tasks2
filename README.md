@@ -1,2 +1,2 @@
-# Tasks2
+# Netflix
 I made portfolio &amp; replica of Netflix website
